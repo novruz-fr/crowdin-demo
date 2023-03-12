@@ -1,0 +1,3 @@
+files:
+  - source: /src/main/resources/i18n/source
+    translation: /src/main/resources/i18n/translations/MessageBundle_%locale_with_underscore%.%file_extension%
